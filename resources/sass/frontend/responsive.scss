@@ -1,0 +1,43 @@
+//extra small devices
+@media only screen and (max-width: 575px) {
+    body{
+        font-size: 12px;
+    }
+}
+
+// Small devices (landscape phones, 576px and up)
+@media only screen and (min-width: 576px) {
+    body{
+        font-size: 13px;
+    }
+}
+
+// Medium devices (tablets, 768px and up)
+@media only screen and (min-width: 768px) {
+    body{
+        font-size: 14px;
+    }
+}
+
+// Large devices (desktops, 992px and up)
+@media only screen and (min-width: 992px) {
+    body{
+        font-size: 14px;
+    }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media only screen and (min-width: 1200px) {
+    body{
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 1600px){
+    body{
+        font-size: 14px;
+    }
+    .container {
+        max-width: 1440px;
+    }
+}

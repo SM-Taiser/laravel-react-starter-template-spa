@@ -1,0 +1,80 @@
+/*Start Fonts */
+@font-face {
+    font-family: 'Gotham-Medium';
+    src: url('/public/fonts/Gotham-Medium/Gotham-Medium.eot') format('embedded-opentype'),
+    url('/public/fonts/Gotham-Medium/Gotham-Medium.otf') format('opentype'),
+    url('/public/fonts/Gotham-Medium/Gotham-Medium.ttf') format('truetype'),
+    url('/public/fonts/Gotham-Medium/Gotham-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gotham-Light';
+    src: url('/public/fonts/Gotham-Light/Gotham-Light.eot') format('embedded-opentype'),
+    url('/public/fonts/Gotham-Light/Gotham-Light.otf') format('opentype'),
+    url('/public/fonts/Gotham-Light/Gotham-Light.ttf') format('truetype'),
+    url('/public/fonts/Gotham-Light/Gotham-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gotham-BoldItalic';
+    src: url('/public/fonts/Gotham-BoldItalic/Gotham-BoldItalic.eot') format('embedded-opentype'),
+    url('/public/fonts/Gotham-BoldItalic/Gotham-BoldItalic.ttf') format('truetype'),
+    url('/public/fonts/Gotham-BoldItalic/Gotham-BoldItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gotham-Book';
+    src: url('/public/fonts/Gotham-Book/Gotham-Book.eot') format('embedded-opentype'),
+    url('/public/fonts/Gotham-Book/Gotham-Book.ttf') format('truetype'),
+    url('/public/fonts/Gotham-Book/Gotham-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Ubuntu-Bold";
+    src: url("/public/fonts/Ubuntu-Bold/Ubuntu-B.eot"); /* IE9 Compat Modes */
+    src: url("/public/fonts/Ubuntu-Bold/Ubuntu-B.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("/public/fonts/Ubuntu-Bold/Ubuntu-B.otf") format("opentype"), /* Open Type Font */
+    url("/public/fonts/Ubuntu-Bold/Ubuntu-B.svg") format("svg"), /* Legacy iOS */
+    url("/public/fonts/Ubuntu-Bold/Ubuntu-B.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("/public/fonts/Ubuntu-Bold/Ubuntu-B.woff") format("woff"), /* Modern Browsers */
+    url("/public/fonts/Ubuntu-Bold/Ubuntu-B.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Ubuntu-Light";
+    src: url("/public/fonts/Ubuntu-Light/Ubuntu-L.eot"); /* IE9 Compat Modes */
+    src: url("/public/fonts/Ubuntu-Light/Ubuntu-L.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("/public/fonts/Ubuntu-Light/Ubuntu-L.otf") format("opentype"), /* Open Type Font */
+    url("/public/fonts/Ubuntu-Light/Ubuntu-L.svg") format("svg"), /* Legacy iOS */
+    url("/public/fonts/Ubuntu-Light/Ubuntu-L.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("/public/fonts/Ubuntu-Light/Ubuntu-L.woff") format("woff"), /* Modern Browsers */
+    url("/public/fonts/Ubuntu-Light/Ubuntu-L.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Ubuntu-Medium";
+    src: url("/public/fonts/Ubuntu-Medium/Ubuntu-M.eot"); /* IE9 Compat Modes */
+    src: url("/public/fonts/Ubuntu-Medium/Ubuntu-M.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("/public/fonts/Ubuntu-Medium/Ubuntu-M.otf") format("opentype"), /* Open Type Font */
+    url("/public/fonts/Ubuntu-Medium/Ubuntu-M.svg") format("svg"), /* Legacy iOS */
+    url("/public/fonts/Ubuntu-Medium/Ubuntu-M.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("/public/fonts/Ubuntu-Medium/Ubuntu-M.woff") format("woff"), /* Modern Browsers */
+    url("/public/fonts/Ubuntu-Medium/Ubuntu-M.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Ubuntu-Regular";
+    src: url("/public/fonts/Ubuntu-Regular/Ubuntu-Regular.ttf") format("truetype"); /* Safari, Android, iOS */
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*End Fonts */
